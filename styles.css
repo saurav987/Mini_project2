@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+header {
+    background-color: black;
+    color: #fff;
+    opacity: 0.8;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    font-size:medium;
+    color: #fff;
+    display: inline-block;
+    padding: 1rem 1rem;
+    text-decoration: none;
+    border-radius: 50%;
+    opacity: 0.7;
+
+}
+
+nav ul li a:hover{
+    background-color: green;
+    color:black;
+
+}
+
+main {
+    padding: 0px;
+    margin:0px;
+}
+
+section {
+    margin-top:0px;
+    padding:0px;
+    height:100vh;
+    width:100%;
+}
+#home{
+    background-image: url('https://www.shutterstock.com/image-vector/sports-set-athletes-various-disciplines-600nw-1349779070.jpg');
+    background-size: cover;
+    height:100vh;
+    width: 100%;
+}
+
+h2 {
+    color: black;
+    margin:0px;
+    text-align: center;
+    padding-top: 10px;
+}
+section p{
+    font-size: larger;
+    color:black;
+    padding: 10px 10px;
+}
+
